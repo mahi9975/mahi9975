@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Joshi</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
-- 🌱 I’m currently learning **ETL and BIG data topics**
+- 🌱 I’m currently learning **Cloud computing & DevOps**
 
 - 📫 How to reach me **joshimahesh6366@gmail.com**
 
